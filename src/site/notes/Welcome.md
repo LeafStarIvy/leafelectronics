@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","created":"2026-09-11T14:17:30.021+02:00","updated":"2026-09-11T14:24:01.394+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"],"noteIcon":"","created":"2026-09-11T14:17:30.021+02:00","updated":"2026-09-11T15:32:39.135+02:00","dg-note-properties":{}}
 ---
 
 
 
-
+[[Test 2\|Test 2]]
 
 This is your new *vault*.
 
