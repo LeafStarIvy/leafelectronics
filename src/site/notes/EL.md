@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/el/","noteIcon":"","created":"2026-09-14T12:33:54.084+02:00","updated":"2026-09-14T19:17:36.409+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/el/","noteIcon":"","created":"2026-09-14T12:33:54.084+02:00","updated":"2026-09-15T08:34:33.182+02:00","dg-note-properties":{}}
 ---
+
+
+
+
+
 
 
 ## Condensator
