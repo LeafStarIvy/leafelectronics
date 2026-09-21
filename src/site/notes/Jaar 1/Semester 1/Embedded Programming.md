@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jaar-1/semester-1/embedded-programming/","noteIcon":"","created":"2026-09-15T09:00:04.967+02:00","updated":"2026-09-15T09:00:30.796+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/jaar-1/semester-1/embedded-programming/","noteIcon":"","created":"2026-09-21T16:07:57.883+02:00","updated":"2026-09-15T09:00:30.796+02:00","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/definities/delta-d/","tags":["#definitie"],"noteIcon":"","created":"2026-09-15T11:06:30.750+02:00","updated":"2026-09-15T11:11:06.670+02:00","dg-note-properties":{"tags":["#definitie"]}}
+{"dg-publish":true,"permalink":"/definities/delta-d/","tags":["#definitie"],"noteIcon":"","created":"2026-09-21T16:07:57.938+02:00","updated":"2026-09-15T11:12:32.954+02:00","dg-note-properties":{"tags":["#definitie"]}}
 ---
 
 # Delta (Δ) in de elektronica
@@ -12,11 +12,11 @@ $$\Delta X = X_{eind} - X_{begin}$$
 
 ## Voorbeeld
 
-Stel, de spanning over een condensator was eerst 2V, en na het opladen is die 9V.
+Stel, de [[Definities/Spanning\|spanning]] over een [[condensator\|condensator]] was eerst 2V, en na het opladen is die 9V.
 
 $$\Delta V = V_{eind} - V_{begin} = 9V - 2V = 7V$$
 
-De spanning is dus met **7 volt** veranderd.
+De [[Definities/Spanning\|spanning]] is dus met **7 volt** veranderd.
 
 ## Waar je Δ tegenkomt in de elektronica
 

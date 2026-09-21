@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jaar-1/semester-2/power-up-yourself-2/","noteIcon":"","created":"2026-09-15T09:02:40.792+02:00","updated":"2026-09-15T09:01:57.665+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/jaar-1/semester-2/power-up-yourself-2/","noteIcon":"","created":"2026-09-21T16:07:57.880+02:00","updated":"2026-09-15T09:01:57.665+02:00","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jaar-1/jaar-1/","noteIcon":"","created":"2026-09-15T09:33:11.993+02:00","updated":"2026-09-15T09:46:37.448+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/jaar-1/jaar-1/","noteIcon":"","created":"2026-09-21T16:07:57.990+02:00","updated":"2026-09-15T09:46:37.448+02:00","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jaar-1/semester-2/plc-programming/","noteIcon":"","created":"2026-09-15T09:02:52.722+02:00","updated":"2026-09-15T09:03:18.489+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/jaar-1/semester-2/plc-programming/","noteIcon":"","created":"2026-09-21T16:07:57.910+02:00","updated":"2026-09-15T09:03:18.489+02:00","dg-note-properties":{}}
 ---
 
 

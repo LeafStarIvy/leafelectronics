@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jaar-1/semester-2/circuit-analysis-and-electronics-2/","noteIcon":"","created":"2026-09-15T09:02:00.379+02:00","updated":"2026-09-15T09:02:30.616+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/jaar-1/semester-2/circuit-analysis-and-electronics-2/","noteIcon":"","created":"2026-09-21T16:07:57.973+02:00","updated":"2026-09-15T09:02:30.616+02:00","dg-note-properties":{}}
 ---
 
 
